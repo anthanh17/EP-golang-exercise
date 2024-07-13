@@ -1,0 +1,3 @@
+1. đọc thêm ở đây: https://go.dev/doc/articles/wiki/
+2. Thiết kế 1 webserver để Get/Set/Search dữ liệu cho cái struct ở phần dữ liệu employee ở trên,
+yêu cầu là data phải được lưu lại ở file a.txt (không dùng database, mà hãy lưu data trên file).

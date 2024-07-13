@@ -1,0 +1,2 @@
+Gọi API https://dummy.restapiexample.com/api/v1/employees,
+trả về 1 slice các struct có thông tin trong đấy

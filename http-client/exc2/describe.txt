@@ -1,0 +1,1 @@
+Viết 1 worker pool dựa trên ví dụ ở https://gobyexample.com/worker-pools, nhưng job là struct về người gồm các thông tin ở câu trên, job trả về lương chia cho tuổi của mỗi người.
